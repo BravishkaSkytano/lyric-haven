@@ -1,13 +1,16 @@
-# Lyric_Haven
 A collection of LRC files. This repository is where I keep my lyrics for my music collection, feel free to download some.
 
-## How I Create My LRC Files
+- [How I Create My LRC Files](#how-i-create-my-lrc-files)
+- [Catalog / Upcoming LRC Files](#catalog--upcoming-lrc-files)
+- [Future Plans](#future-plans)
+
+# How I Create My LRC Files
 Finding a program to create LRC files is difficult, but I eventually found one that I love. It's called [Akari's LRC Maker](https://lrc-maker.github.io/#/) and it's an online LRC generator hosted on GitHub. The website is nice and easy to use.
 
-# Catalog / Upcoming LRC FIles
+# Catalog / Upcoming LRC Files
 - [] Allison Iraheta
   - [] Just Like You
-    - [X] 01. Friday I'll Be Over You
+    - [X] [01. Friday I'll Be Over You](Allison%20Iraheta/Just%20Like%20You/01.%20Friday%20I'll%20Be%20Over%20U.lrc)
     - [] 02. Robot Love
     - [] 03. Just Like You
     - [] 04. Don't Waste the Pretty
@@ -133,3 +136,6 @@ Finding a program to create LRC files is difficult, but I eventually found one t
   - [] Descendants 2 (Original TV Movie Soudtrack)
   - [] Descendants 3 (Original TV Movie Soudtrack)
   - [] Ugly Dolls (Original Motion Picture Soundtrack)
+
+# Future Plans
+At some point, I want to turn this project into a small website.
