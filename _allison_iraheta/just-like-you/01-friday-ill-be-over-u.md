@@ -1,10 +1,6 @@
 ---
-layout: default
-title: "01. Friday I'll Be Over U"
-parent: "Just Like You"
-grand_parent: "Allison Iraheta
+sort: 1
 ---
-
 Oh yeah!
 
 Monday, Tuesday, we were cool
