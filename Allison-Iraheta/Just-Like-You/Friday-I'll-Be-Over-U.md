@@ -3,7 +3,7 @@ sort: 1
 ---
 # 01. Friday I'll Be Over You
 
-<video controls src="https://youtu.be/dWQvF8pIxmE"></video>
+<iframe width="420" height="315" src="https://youtu.be/dWQvF8pIxmE"></iframe>
 
 Oh yeah!
 
