@@ -1,10 +1,8 @@
-remote_theme: pmarsceill/just-the-docs
-
 # Site settings
 title: Lyric Haven
 description: A safe place for song lyrics and LRC files to stay
 
-remote_theme: null
+remote_theme: rundocs/jekyll-rtd-theme
 
 # debug:
 #   compress: true
