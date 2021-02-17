@@ -8,117 +8,117 @@ A collection of LRC files. This repository is where I keep my lyrics for my musi
 Finding a program to create LRC files is difficult, but I eventually found one that I love. It's called [Akari's LRC Maker](https://lrc-maker.github.io/#/) and it's an online LRC generator hosted on GitHub. The website is nice and easy to use.
 
 # Catalog / Upcoming LRC Files
-- [] Allison Iraheta
-  - [] Just Like You
+- [ ] Allison Iraheta
+  - [ ] Just Like You
     - [X] [01. Friday I'll Be Over You](Allison%20Iraheta/Just%20Like%20You/01.%20Friday%20I'll%20Be%20Over%20U.lrc)
-    - [] 02. Robot Love
-    - [] 03. Just Like You
-    - [] 04. Don't Waste the Pretty
-    - [] 05. Scars
-    - [] 06. Pieces
-    - [] 07. D Is for Dangerous
-    - [] 08. Holiday
-    - [] 09. Still Breathing
-    - [] 10. Trouble Is
-    - [] 11. No One Else
-    - [] 12. Beat Me Up
-    - [] 13. You Don't Me
-- [] Britt Nicole
-  - [] Acoustic
-    - [] 01. Hanging On
-    - [] 02. Set the World On Fire
-    - [] 03. Headphones
-    - [] 04. Walk On the Water
-    - [] 05. The Lost Get Found
-    - [] 06. Found By You
-  - [] Britt Nicole
-    - [] 01. Through Your Eyes
-    - [] 02. All the Money
-    - [] 03. Better
-    - [] 04. Work of Art
-    - [] 05. Fallin in Love
-    - [] 06. Be the Change
-    - [] 07. All Day
-    - [] 08. Pave
-    - [] 09. No Filter
-    - [] 10. Girls Night Out
-    - [] 11. After You
-    - [] 12. Concrete
-    - [] 13. Heart of Stone
-    - [] 14. Electric Love
-  - [] Gold
-    - [] 01. Gold
-    - [] 02. All This Time
-    - [] 03. Look Like Love
-    - [] 04. Who You Say You Are
-    - [] 05. Ready or Not (feat. Lecrae)
-    - [] 06. Breakthrough
-    - [] 07. Stand
-    - [] 08. The Sun Is Rising
-    - [] 09. Amazing Life
-    - [] 10. Still That Girl
-    - [] 11. Seeing for the First Time
-    - [] 12. Amazing Life (Capital Kings Remix)
-  - [] Say It
-    - [] 01. Holiday
-    - [] 02. Believe
-    - [] 03. Set the World on Fire
-    - [] 04. Sunshine Girl
-    - [] 05. Ready
-    - [] 06. You
-    - [] 07. When She Cries
-    - [] 08. Good Day
-    - [] 09. Don't Worry Now
-    - [] 10. Say It
-    - [] 11. World That Breaks
-  - [] The Lost Get Found
-    - [] 01. The Lost Get Found
-    - [] 02. How We Roll
-    - [] 03. Safe
-    - [] 04. Hanging On
-    - [] 05. Headphones
-    - [] 06. Welcome To The Show
-    - [] 07. Walk On The Water
-    - [] 08. Glow
-    - [] 09. Like A Star
-    - [] 10. Feel The Light
-    - [] 11. Have Your Way
-- [] JJ Heller
-  - [] Deeper
-  - [] Loved
-  - [] Painted Red
-  - [] Soud of a Living Heart
-  - [] When I'm With You
-- [] Kelly Clarkson
-  - [] Breakaway
-    - [] 01. Breakaway
-    - [] 02. Since U Been Gone
-    - [] 03. Behind These Hazel Eyes
-    - [] 04. Because of You
-    - [] 05. Gone
-    - [] 06. Addicted
-    - [] 07. Where Is Your Heart
-    - [] 08. Walk Away
-    - [] 09. You Found Me
-    - [] 10. I Hate Myself for Losing You
-    - [] 11. Hear Me
-    - [] 12. Beautiful Disaster (live)
-- [] Matt Hammitt
-  - [] Every Falling Tear
-- [] NF
-  - [] Mansion
-- [] Nichole Nordeman
-  - [] Brave
-  - [] Every Mile Mattered
-- [] Seventh Day Slumber
-  - [] The Anthem of Angels
-    - [] 01. Wasted Life
-    - [] 02. Love Came Down
-    - [] 03. One Mistake
-    - [] 04. Addicted to My Pain
-    - [] 05. Never Too Far Gone
-    - [] 06. Pieces
-    - [] 07. Crash
+    - [ ] 02. Robot Love
+    - [ ] 03. Just Like You
+    - [ ] 04. Don't Waste the Pretty
+    - [ ] 05. Scars
+    - [ ] 06. Pieces
+    - [ ] 07. D Is for Dangerous
+    - [ ] 08. Holiday
+    - [ ] 09. Still Breathing
+    - [ ] 10. Trouble Is
+    - [ ] 11. No One Else
+    - [ ] 12. Beat Me Up
+    - [ ] 13. You Don't Me
+- [ ] Britt Nicole
+  - [ ] Acoustic
+    - [ ] 01. Hanging On
+    - [ ] 02. Set the World On Fire
+    - [ ] 03. Headphones
+    - [ ] 04. Walk On the Water
+    - [ ] 05. The Lost Get Found
+    - [ ] 06. Found By You
+  - [ ] Britt Nicole
+    - [ ] 01. Through Your Eyes
+    - [ ] 02. All the Money
+    - [ ] 03. Better
+    - [ ] 04. Work of Art
+    - [ ] 05. Fallin in Love
+    - [ ] 06. Be the Change
+    - [ ] 07. All Day
+    - [ ] 08. Pave
+    - [ ] 09. No Filter
+    - [ ] 10. Girls Night Out
+    - [ ] 11. After You
+    - [ ] 12. Concrete
+    - [ ] 13. Heart of Stone
+    - [ ] 14. Electric Love
+  - [ ] Gold
+    - [ ] 01. Gold
+    - [ ] 02. All This Time
+    - [ ] 03. Look Like Love
+    - [ ] 04. Who You Say You Are
+    - [ ] 05. Ready or Not (feat. Lecrae)
+    - [ ] 06. Breakthrough
+    - [ ] 07. Stand
+    - [ ] 08. The Sun Is Rising
+    - [ ] 09. Amazing Life
+    - [ ] 10. Still That Girl
+    - [ ] 11. Seeing for the First Time
+    - [ ] 12. Amazing Life (Capital Kings Remix)
+  - [ ] Say It
+    - [ ] 01. Holiday
+    - [ ] 02. Believe
+    - [ ] 03. Set the World on Fire
+    - [ ] 04. Sunshine Girl
+    - [ ] 05. Ready
+    - [ ] 06. You
+    - [ ] 07. When She Cries
+    - [ ] 08. Good Day
+    - [ ] 09. Don't Worry Now
+    - [ ] 10. Say It
+    - [ ] 11. World That Breaks
+  - [ ] The Lost Get Found
+    - [ ] 01. The Lost Get Found
+    - [ ] 02. How We Roll
+    - [ ] 03. Safe
+    - [ ] 04. Hanging On
+    - [ ] 05. Headphones
+    - [ ] 06. Welcome To The Show
+    - [ ] 07. Walk On The Water
+    - [ ] 08. Glow
+    - [ ] 09. Like A Star
+    - [ ] 10. Feel The Light
+    - [ ] 11. Have Your Way
+- [ ] JJ Heller
+  - [ ] Deeper
+  - [ ] Loved
+  - [ ] Painted Red
+  - [ ] Sound of a Living Heart
+  - [ ] When I'm With You
+- [ ] Kelly Clarkson
+  - [ ] Breakaway
+    - [ ] 01. Breakaway
+    - [ ] 02. Since U Been Gone
+    - [ ] 03. Behind These Hazel Eyes
+    - [ ] 04. Because of You
+    - [ ] 05. Gone
+    - [ ] 06. Addicted
+    - [ ] 07. Where Is Your Heart
+    - [ ] 08. Walk Away
+    - [ ] 09. You Found Me
+    - [ ] 10. I Hate Myself for Losing You
+    - [ ] 11. Hear Me
+    - [ ] 12. Beautiful Disaster (live)
+- [ ] Matt Hammitt
+  - [ ] Every Falling Tear
+- [ ] NF
+  - [ ] Mansion
+- [ ] Nichole Nordeman
+  - [ ] Brave
+  - [ ] Every Mile Mattered
+- [ ] Seventh Day Slumber
+  - [ ] The Anthem of Angels
+    - [ ] 01. Wasted Life
+    - [ ] 02. Love Came Down
+    - [ ] 03. One Mistake
+    - [ ] 04. Addicted to My Pain
+    - [ ] 05. Never Too Far Gone
+    - [ ] 06. Pieces
+    - [ ] 07. Crash
     - [] 08. Back Where I Belong
     - [] 09. Knows My Name
     - [] 10. My Life
