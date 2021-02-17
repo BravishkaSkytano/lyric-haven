@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "01. Friday I'll Be Over U"
-parent: Allison Iraheta
+parent: "Just Like You"
+grand_parent: "Allison Iraheta
 ---
 
 Oh yeah!
