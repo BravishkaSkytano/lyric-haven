@@ -1,4 +1,7 @@
-
+---
+sort: 2
+---
+# 02. Robot Love
 Waking up to sounds of text messages and typing in my ear
 Just can't wait to check your e-mail
 I beg and beg, baby connect with me instead
