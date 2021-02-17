@@ -4,6 +4,8 @@ sort: 1
 # 01. Friday I'll Be Over You
 Oh yeah!
 
+<audio src="https://youtube.com/watch?v=dWQvF8pIxmE" controls></audio>
+
 Monday, Tuesday, we were cool\
 Wednesday, I found out 'bout you\
 Caught my heart by tellin' lies\
