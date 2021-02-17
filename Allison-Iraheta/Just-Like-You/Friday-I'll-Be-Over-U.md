@@ -2,9 +2,10 @@
 sort: 1
 ---
 # 01. Friday I'll Be Over You
-Oh yeah!
 
-<audio src="https://youtube.com/watch?v=dWQvF8pIxmE" controls></audio>
+<audio controls src="https://youtu.be/dWQvF8pIxmE"></audio>
+
+Oh yeah!
 
 Monday, Tuesday, we were cool\
 Wednesday, I found out 'bout you\
