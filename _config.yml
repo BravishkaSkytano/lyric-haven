@@ -1,7 +1,9 @@
+remote_theme: pmarsceill/just-the-docs
+
 # Site settings
 title: Lyric Haven
 description: A safe place for song lyrics and LRC files to stay
-baseurl: "/Lyric-Haven" # the subpath of your site, e.g. /blog
+baseurl: "/lyric-haven" # the subpath of your site, e.g. /blog
 url: "https://aspiring-writer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
@@ -96,6 +98,7 @@ just_the_docs:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 kramdown:
   syntax_highlighter_opts:
