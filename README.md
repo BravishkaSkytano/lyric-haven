@@ -119,23 +119,23 @@ Finding a program to create LRC files is difficult, but I eventually found one t
     - [ ] 05. Never Too Far Gone
     - [ ] 06. Pieces
     - [ ] 07. Crash
-    - [] 08. Back Where I Belong
-    - [] 09. Knows My Name
-    - [] 10. My Life
-    - [] 11. How He Loves
-- [] Shawn Mendes
-  - [] Handwritten
-  - [] Shawn Mendes
-- [] Tasha Cobbs Leonard
-  - [] Heart. Passion. Pursuit.
-- [] Trip Lee
-  - [] Rise
-  - [] The Good Life
-- [] Various Artists
-  - [] Descendants (Original TV Movie Soudtrack)
-  - [] Descendants 2 (Original TV Movie Soudtrack)
-  - [] Descendants 3 (Original TV Movie Soudtrack)
-  - [] Ugly Dolls (Original Motion Picture Soundtrack)
+    - [ ] 08. Back Where I Belong
+    - [ ] 09. Knows My Name
+    - [ ] 10. My Life
+    - [ ] 11. How He Loves
+- [ ] Shawn Mendes
+  - [ ] Handwritten
+  - [ ] Shawn Mendes
+- [ ] Tasha Cobbs Leonard
+  - [ ] Heart. Passion. Pursuit.
+- [ ] Trip Lee
+  - [ ] Rise
+  - [ ] The Good Life
+- [ ] Various Artists
+  - [ ] Descendants (Original TV Movie Soudtrack)
+  - [ ] Descendants 2 (Original TV Movie Soudtrack)
+  - [ ] Descendants 3 (Original TV Movie Soudtrack)
+  - [ ] Ugly Dolls (Original Motion Picture Soundtrack)
 
 # Future Plans
 At some point, I want to turn this project into a small website.
