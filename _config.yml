@@ -100,15 +100,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "pages"
+      type: ""
     values:
       layout: "default"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
       
 plugins:
   - jekyll-seo-tag
