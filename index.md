@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Home
 nav_order: 1
 description: "A safe place for song lyrics and LRC files to stay"
