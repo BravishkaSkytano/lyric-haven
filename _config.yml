@@ -96,6 +96,20 @@ just_the_docs:
     allison_iraheta:
       name: Allison Iraheta
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
