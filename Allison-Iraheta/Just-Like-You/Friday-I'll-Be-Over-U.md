@@ -3,7 +3,7 @@ sort: 1
 ---
 # 01. Friday I'll Be Over You
 
-<iframe width="420" height="315" src="https://youtu.be/dWQvF8pIxmE"></iframe>
+[![Allison Iraheta - Friday I'll Be Over You](https://img.youtube.com/vi/dWQvF8pIxmE/0.jpg)](https://youtu.be/dWQvF8pIxmE "Friday I'll Be Over You")
 
 Oh yeah!
 
